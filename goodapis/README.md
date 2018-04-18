@@ -91,7 +91,7 @@ print_formatted('Hello world', 'red', 'bold', out=some_file)
 print(formatted('Hello world', 'red', 'bold'))
 ```
 
-[Python Logging 设计](loggin-design.jpg)
+![Python Logging 设计](loggin-design.jpg)
 
 2. 增强代码可扩展性
 
